@@ -1,9 +1,9 @@
 # About Project Seoirl
 ## Currently developed by 1 Person
-## Currently 1.01% finished in Beta
+## Currently 1.06% finished in Beta
 ## Currently 0% finished in Alpha
 ## Currently 0% finished in normal release
-## Currently on v1.0.3
+## Currently on v1.0.4
 ***
 
 So your wondering what on earth Project Seoirl is, it's a maze game in p5.js that will have a lot of features
